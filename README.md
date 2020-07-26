@@ -5,7 +5,7 @@ Repository containing all projects,activities,initiatives completed or going on 
 
 ## Introductions of team members
 
-Had a introduction session with all group fellows 
+We had a introductory session with all the group member in which every introduced them selve and told us about one interesting fact about them
 
 # week 2
 
