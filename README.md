@@ -11,7 +11,7 @@ Had a introduction session with all group fellows
 
 ## poll objective and results with picture
 
-
+![alt text](https://github.com/AnshuTrivedi/sg_ml_projects/blob/master/assets/pie_chart.png)
 
 # week 3
 
