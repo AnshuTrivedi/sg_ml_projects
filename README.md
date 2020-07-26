@@ -3,20 +3,22 @@ Repository containing all projects,activities,initiatives completed or going on 
 
 # Week 1 
 
-## Introductions of team members
+### Introductions of team members
 
-We had a introductory session with all the group member in which every introduced them selve and told us about one interesting fact about them
+We had a introductory session with all the group member in which every introduced them selve and told us about one interesting fact about them.
 
 # week 2
 
-## poll objective and results with picture
+### Poll objective and results with picture
 
 ![alt text](https://github.com/AnshuTrivedi/sg_ml_projects/blob/master/assets/pie_chart.png)
 
 # week 3
 
-## Enlist platforms from where we picked up projects
+### Enlist platforms from where we picked up projects
+
+![alt text](https://github.com/AnshuTrivedi/sg_ml_projects/blob/master/assets/platform_poll.PNG)
 
 # week 4
 
-## Projects selection and team members
+### Projects selection and team members
